@@ -1,0 +1,12 @@
+# Hugo default output directory
+public/
+/exampleSite/resources/
+
+node_modules/
+build/
+
+# Linux
+.directory
+
+.history/
+
